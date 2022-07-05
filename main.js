@@ -13,3 +13,7 @@ $('#navbar a, .btn').on('click', function(event) {
             );
     }
 });
+
+function myFunction() {
+    window.location.href="assets\Resume.pdf";
+}
